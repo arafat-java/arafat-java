@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @arafat-java
+## 👋 Hi, I’m Arafat Nalkhande
 
 > 👀 An 'Out and Out' **JAVA** enthusiast. **REST**ful and **SPRING**y.
 > 
