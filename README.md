@@ -22,7 +22,7 @@
  </p>
 
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-java&show_icons=true&locale=en" alt="abcd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-java&show_icons=true&locale=en" alt="" /></p>
 
 <!---
 arafat-java/arafat-java is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
